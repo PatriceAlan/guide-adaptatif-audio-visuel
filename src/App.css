@@ -1,0 +1,116 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* app.css */
+
+/* General container for screens */
+.h-full {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  padding: 1rem;
+}
+
+.space-y-4 > * + * {
+  margin-top: 1rem;
+}
+
+.space-y-2 > * + * {
+  margin-top: 0.5rem;
+}
+
+/* Button styles */
+button {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+}
+
+button:hover {
+  background-color: #e0e0e0;
+}
+
+button span {
+  font-weight: 500;
+}
+
+/* Back arrow styling */
+.flex.items-center > .cursor-pointer {
+  cursor: pointer;
+}
+
+/* Fixed bottom navigation */
+.fixed {
+  position: fixed;
+}
+
+.bottom-0 {
+  bottom: 0;
+}
+
+.left-0 {
+  left: 0;
+}
+
+.right-0 {
+  right: 0;
+}
+
+.border-t {
+  border-top: 1px solid #e5e5e5;
+}
+
+.bg-white {
+  background-color: #fff;
+}
+
+/* Progress bar */
+.bg-blue-200 {
+  background-color: #cfe8fc;
+}
+
+.bg-blue-600 {
+  background-color: #0369a1;
+}
+
+.rounded-full {
+  border-radius: 9999px;
+}
+
+/* Rounded boxes */
+.rounded-lg {
+  border-radius: 0.5rem;
+}
+
+.p-4 {
+  padding: 1rem;
+}
+
+.h-48 {
+  height: 12rem;
+}
+
+/* Accessibility */
+.bg-gray-100 {
+  background-color: #f3f4f6;
+}
+
+.bg-gray-200 {
+  background-color: #e5e7eb;
+}
+
+/* Titles and font weights */
+.text-xl {
+  font-size: 1.25rem;
+}
+
+.font-bold {
+  font-weight: 700;
+}
+
+.font-medium {
+  font-weight: 500;
+}
