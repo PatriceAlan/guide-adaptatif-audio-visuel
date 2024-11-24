@@ -13,10 +13,10 @@ Ce projet explore la création d'un **guide adaptatif audio-visuel** permettant 
 - Code source 💻 pour simuler certaines interactions et comportements adaptatifs.
 - Maquette statique 🖥️ décrivant la structure et l'interface du système à travers les différentes captures d'écrans suivantes:
 
-    - ![Ecran d'accueil](../guide-adaptatif-mockup/src/assets/images/image1.png)
-    - ![Ecran d'accueil](../guide-adaptatif-mockup/src/assets/images/image2.png)
-    - ![Ecran d'accueil](../guide-adaptatif-mockup/src/assets/images/image3.png)
-    - ![Ecran d'accueil](../guide-adaptatif-mockup/src/assets/images/image4.png)
+    - ![Ecran d'accueil](https://github.com/PatriceAlan/guide-adaptatif-audio-visuel/blob/main/src/assets/images/image1.png)
+    - ![Configuration du profil](https://github.com/PatriceAlan/guide-adaptatif-audio-visuel/blob/main/src/assets/images/image2.png)
+    - ![Paramètres](https://github.com/PatriceAlan/guide-adaptatif-audio-visuel/blob/main/src/assets/images/image3.png)
+    - ![Visite guidée](https://github.com/PatriceAlan/guide-adaptatif-audio-visuel/blob/main/src/assets/images/image4.png)
 
 
 
