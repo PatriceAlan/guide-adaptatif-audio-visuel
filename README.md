@@ -1,6 +1,3 @@
-### README.md
-
-```markdown
 # 🌟 **Guide Adaptatif Audio-Visuel** 🌟
 
 Bienvenue dans le projet de développement d'un **système adaptatif innovant** ! 🎉
